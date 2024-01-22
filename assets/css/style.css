@@ -1,4 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght:100, 200, 300, 400, 500, 600, 700|Archivo:100, 200, 300, 400, 500, 600, 700');
+
+
+
+
+.archivo-<uniquifier> {
+    font-family: "Archivo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
 
 
 /*--------------------------------------------Colors*/

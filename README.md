@@ -13,4 +13,8 @@ From studying the course material and other resources on the web, I have learned
 
 ## UX Design
 ### Project Goals
+My goals were to make this visually user-friendly and easy to use for the user. Also to make it established on all three devices such as mobile phone, tablet and full web page. 
+I used wireframes to sketch out a rough idea of how these would look on all three devices. 
+
+Wireframes:  
 

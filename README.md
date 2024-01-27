@@ -26,7 +26,7 @@ I used wireframes to sketch out a rough idea of how these would look on all thre
 ![wireframe Mobile View Gallery Page 2](<Wireframes/Mobile Wireframe Gallery 2.png>)
 ![Wireframe Mobile View Audio Page 1](<Wireframes/Mobile Wireframe Audio 1.png>)
 ![Wireframe Mobile View Audio Page 2](<Wireframes/Mobile Wireframe Audio 2.png>)
-![Wireframe Tablet View Home Page](Wireframes/Tablet Wireframe Home Page.png)
+![Wireframe Tablet View Home Page](<Wireframes/Tablet Wireframe Home Page.png>)
 ![Wireframe Tablet View Gallery Page](<Wireframes/Tablet Wireframe Gallery.png>)
 ![Wireframe Tablet View Audio Page](<Wireframes/Tablet Wireframe Audio.png>)
 ![Wireframe Tablet View Support Local Music Page](<Tablet Wireframe Support Local Music.png>)

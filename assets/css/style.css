@@ -225,7 +225,7 @@ footer {
     padding: 20px;
 }
 
-/* ----------------------------------------Three Reasons */
+/* ----------------------------------------About */
 
 .three-reasons-icon {
     font-size: 26px;
@@ -236,7 +236,7 @@ footer {
     margin-bottom: 15px;
 }
 
-/* ----------------------------------------Personal Info */
+/* ----------------------------------------Band Info */
 
 .personal-info-item {
     margin-bottom: 20px;
@@ -271,7 +271,7 @@ footer {
     width: 60%;
 }
 
-/* ----------------------------------------Skills */
+/* ---------------------------------------- */
 
 .progress {
     position: relative;
@@ -292,7 +292,7 @@ footer {
     margin: 40px 20px;
 }
 
-/* ----------------------------------------Work History */
+/* ----------------------------------------Photos */
 
 .history-heading {
     color: #fafafa;
@@ -340,7 +340,9 @@ footer {
     margin-bottom: 30px;
 }
 
-/* ----------------------------------------Contact Form */
+
+
+/* ----------------------------------------Audio */
 
 .contact-heading {
     font-family: "Exo", sans-serif;

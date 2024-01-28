@@ -46,7 +46,7 @@ I tested the css code using the W3 Jigsaw validation and it came out with no iss
 | Home                    | Click on "Home" Link     | User is redirected to Home page.               | Yes                 | Yes           |
 | Gallery                 | Click on "Gallery" Link  | User is redirected to Gallery page.            | Yes                 | Yes           |
 | Audio                   | Click on "Audio" Link    | User is redirected to Audio page and 
-                                                       can play the audio and video player.           | Yes                 | Yes           |
+|                         |                          |can play the audio and video player.            | Yes                 | Yes           |
 | Support Local Music     | Click on Support Link    | User is redirected to Support Local Music page.| Yes                 | Yes           |
 | Facebook icon           | Click on Facebook icon   | User is directed to Facebook homepage          | Yes                 | Yes           |
 | Twitter icon            | Click on Twitter icon    | User is directed to Twitter homepage           | Yes                 | Yes           |
@@ -55,4 +55,9 @@ I tested the css code using the W3 Jigsaw validation and it came out with no iss
 | Youtube icon            | Click on Youtube icon    | User is directed to Youtube homepage           | Yes                 | Yes           |
 
 ## Deployment
-My site was deployed on 
+My site was deployed on GitHub pages at https://epageone.github.io/Em and Me Website/
+I had some issues with my wireframes as some of them came up in error 404, however, they all work in the wireframes folder and were all working. 
+
+## Credits
+
+I based this website on the Resume mini project and used W3 Schools for code as well as Bootstrap (https://getbootstrap.com) for the bootstrap css and font awesome for the icons. 

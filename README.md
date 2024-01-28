@@ -55,7 +55,7 @@ I tested the css code using the W3 Jigsaw validation and it came out with no iss
 | Youtube icon            | Click on Youtube icon    | User is directed to Youtube homepage           | Yes                 | Yes           |
 
 ## Deployment
-My site was deployed on GitHub pages at https://epageone.github.io/EmandMeWebsite/
+My site was deployed on GitHub pages at https://epageone.github.io/Em-and-Me-Website/
 I had some issues with my wireframes as some of them came up in error 404, however, they all work in the wireframes folder and were all working. 
 
 ## Credits

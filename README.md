@@ -1,4 +1,4 @@
-# Em & Me Band Website
+# Em & Me Band Website 
 
 ## Description
 
@@ -22,16 +22,37 @@ I used wireframes to sketch out a rough idea of how these would look on all thre
 ### Wireframes
 
 ![Wireframe Mobile View Home Page](<Home Page Mobile.png>)
-![Wireframe Mobile View Galley Page 1](<Wireframes/Mobile Wireframe Gallery 1.png>)
-![wireframe Mobile View Gallery Page 2](<Wireframes/Mobile Wireframe Gallery 2.png>)
-![Wireframe Mobile View Audio Page 1](<Wireframes/Mobile Wireframe Audio 1.png>)
-![Wireframe Mobile View Audio Page 2](<Wireframes/Mobile Wireframe Audio 2.png>)
-![Wireframe Tablet View Home Page](<Wireframes/Tablet Wireframe Home Page.png>)
-![Wireframe Tablet View Gallery Page](<Wireframes/Tablet Wireframe Gallery.png>)
-![Wireframe Tablet View Audio Page](<Wireframes/Tablet Wireframe Audio.png>)
+![Wireframe Mobile View Galley Page 1](<wireframes/Mobile Wireframe Gallery 1.png>)
+![wireframe Mobile View Gallery Page 2](<wireframes/Mobile Wireframe Gallery 2.png>)
+![Wireframe Mobile View Audio Page 1](<wireframes/Mobile Wireframe Audio 1.png>)
+![Wireframe Mobile View Audio Page 2](<wireframes/Mobile Wireframe Audio 2.png>)
+![Wireframe Tablet View Home Page](<wireframes/Tablet Wireframe Home Page.png>)
+![Wireframe Tablet View Gallery Page](<wireframes/Tablet Wireframe Gallery.png>)
+![Wireframe Tablet View Audio Page](<wireframes/Tablet Wireframe Audio.png>)
 ![Wireframe Tablet View Support Local Music Page](<Tablet Wireframe Support Local Music.png>)
 ![Wireframe Browser View Home Page](<WebBrowser Wireframe Home Page.png>)
 ![Wireframe Browser View Gallery Page](<WebBrowser Wireframe Gallery.png>)
 ![Wireframe Browser View Audio Page](<WebBrowser Wireframe Audio.png>)
 ![Wireframe Browser View Support Local Music Page](<WebBrowser Wireframe Support Local Music.png>)
 
+### Testing
+
+I tested the css code using the W3 Jigsaw validation and it came out with no issues. I used the W3C Markup Validator for my html code and that did come with issues that were then rectified using W3Schools code to double check that my code still would work. The main issue I had was to get the audio player controls to come up on the audio section and play the track. I realised when I checked the folder I had the audio folder in the assets folder and this would not work until I removed it out of there. Suddenly once I had done this I could play the audio track in my audio page on the website. Getting the links to work was my main issue, but once I had the foie directory and the folders in the correct place the links worked more effectively. 
+
+### Manual Testing
+
+| Feature                 |  Action                  | Expected Result                                |  Tested             | Passed        |
+| -----------------------:|:------------------------:| ----------------------------------------------:|--------------------:|--------------:|
+| Home                    | Click on "Home" Link     | User is redirected to Home page.               | Yes                 | Yes           |
+| Gallery                 | Click on "Gallery" Link  | User is redirected to Gallery page.            | Yes                 | Yes           |
+| Audio                   | Click on "Audio" Link    | User is redirected to Audio page and 
+                                                       can play the audio and video player.           | Yes                 | Yes           |
+| Support Local Music     | Click on Support Link    | User is redirected to Support Local Music page.| Yes                 | Yes           |
+| Facebook icon           | Click on Facebook icon   | User is directed to Facebook homepage          | Yes                 | Yes           |
+| Twitter icon            | Click on Twitter icon    | User is directed to Twitter homepage           | Yes                 | Yes           |
+| LinkedIn icon           | Click on Linkedin icon   | User is directed to Linkedin homepage          | Yes                 | Yes           |
+| Instagram icon          | Click on Instagram icon  | User is directed to Instagram homepage         | Yes                 | Yes           |
+| Youtube icon            | Click on Youtube icon    | User is directed to Youtube homepage           | Yes                 | Yes           |
+
+## Deployment
+My site was deployed on 

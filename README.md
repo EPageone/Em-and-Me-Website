@@ -37,7 +37,7 @@ I used wireframes to sketch out a rough idea of how these would look on all thre
 
 ### Testing
 
-I tested the css code using the W3 Jigsaw validation and it came out with no issues. I used the W3C Markup Validator for my html code and that did come with issues that were then rectified using W3Schools code to double check that my code still would work. The main issue I had was to get the audio player controls to come up on the audio section and play the track. I realised when I checked the folder I had the audio folder in the assets folder and this would not work until I removed it out of there. Suddenly once I had done this I could play the audio track in my audio page on the website. Getting the links to work was my main issue, but once I had the foie directory and the folders in the correct place the links worked more effectively. 
+I tested the css code using the W3 Jigsaw validation and it came out with no issues. I used the W3C Markup Validator for my html code and that did come with issues that were then rectified using W3Schools code to double check that my code still would work. The main issue I had was to get the audio player controls to come up on the audio section and play the track. I realised when I checked the folder I had the audio folder in the assets folder and this would not work until I removed it out of there. Suddenly once I had done this I could play the audio track in my audio page on the website. Getting the links to work was my main issue, but once I had the file directory and the folders in the correct place the links worked more effectively. 
 
 ### Manual Testing
 
